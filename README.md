@@ -40,7 +40,7 @@
   
   Segment Customers by Total Spending
 
-    ![](segment.png)
+
 
   
   In this query:
