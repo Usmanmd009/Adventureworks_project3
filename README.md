@@ -16,3 +16,5 @@
 
 
 - identify trends and patterns to discover the top performing  product, and region based on sales in 2015,july 2016 and september 2017
+
+ ![](region.png)
