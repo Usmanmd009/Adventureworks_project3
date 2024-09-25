@@ -39,3 +39,5 @@
 
   
   Segment Customers by Total Spending
+
+  ![](region.png)
